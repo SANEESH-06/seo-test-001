@@ -1,0 +1,26 @@
+OG Image Instructions
+=====================
+
+Create an image named "og-image.png" with these specifications:
+
+Dimensions: 1200 x 630 pixels
+Format: PNG or JPG
+File size: Under 1MB
+
+Content suggestions:
+- Your blog logo/name "DevBlog"
+- Tagline: "Web Development Tutorials"
+- Clean, professional design
+- High contrast colors
+- Readable text
+
+Tools to create:
+- Canva (free templates)
+- Figma
+- Photoshop
+- Online OG image generators
+
+Place the file in: public/og-image.png
+
+For now, you can use a placeholder or create one at:
+https://www.canva.com/create/open-graph/
